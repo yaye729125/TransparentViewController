@@ -1,7 +1,7 @@
 //
 //  ViewController.m
 //  TranparentViewControllerTest
-//
+//  启动一个透明的viewcontroller
 //  Created by lbc on 16/9/9.
 //  Copyright © 2016年 lbc. All rights reserved.
 //
